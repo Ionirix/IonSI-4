@@ -1,0 +1,1 @@
+Public storage adapter examples may be placed here.

@@ -1,0 +1,7 @@
+{
+  "name": "ionsi4-public-packages",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "workspaces": ["packages/*"]
+}

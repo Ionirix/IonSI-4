@@ -1,0 +1,17 @@
+{
+  "name": "ionsi4-public",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Standalone public TypeScript interfaces and sample stubs.",
+  "type": "module",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

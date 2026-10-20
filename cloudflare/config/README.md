@@ -1,0 +1,1 @@
+Public configuration examples may be placed here. No live routes or credentials are included.
